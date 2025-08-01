@@ -27,5 +27,7 @@ Alle Frameworks wie Java EE oder Spring arbeiten nur mit diesen Grundlagen
 befinden sich in einer einzigen ZIP-Datei.
  
 Buch "Java-Komponenten” (hochschule-trier.de)
+https://www.hochschule-trier.de/jk
  
 Buch "Parallele und verteilte Anwendungen in Java" (hochschule-trier.de)
+https://www.hochschule-trier.de/puva5
