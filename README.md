@@ -15,9 +15,9 @@ Alle Programme in dieser Welt kommunizieren meistens über Sockets (Web-Browser,
 
 ## Java-Komponente
 Um eine JAVA EE App zu verstehen, sind folgende Grund lagen wichtig (siehe Buch Kapitel):
--- 1 Generics
--- 2 Reflection
--- 3 Annotationen
+<br>-- 1 Generics
+<br>-- 2 Reflection
+<br>-- 3 Annotationen
  
 Diese Grundlagen zeigen das es in Java oder C#... keine Magie gibt.
 Alle Frameworks wie Java EE oder Spring arbeiten nur mit diesen Grundlagen
